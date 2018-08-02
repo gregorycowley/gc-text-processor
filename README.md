@@ -4,20 +4,6 @@ Import Google Docs from browser using curl or wget or even just the browser
 Let npm create needed folders
 Run everything from grunt
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Steps for converting text:
 
 Pull Files from Google Docs in .docx format
